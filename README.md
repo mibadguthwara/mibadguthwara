@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **M. Ibad Guthwara** biasa dipanggil **Ibad**.
 
-Saya seorang yang tertarik dibidang pembuatan aplikasi berbasis **Android** dan pembuatan website berbasis **WordPress**
+Saya seorang yang tertarik menyelesaikan suatu tantangan dengan bantuan teknologi diantaranya penggunaan aplikasi mobile.
 
-Mengikuti beberapa kursus online untuk menunjang bidang keahlian seperti [Dicoding](https://www.dicoding.com), [Skill Academy](https://www.skillacademy.com), [Built With Angga](https://www.builtwithangga.com), [Habis Kerja](https://www.habiskerja.com), [Kursus Digital](https://www.kursusdigital.id).
+Mengikuti beberapa kursus online untuk menunjang bidang keahlian seperti [Dicoding](https://www.dicoding.com), [Sanbercode](https://sanbercode.com), [Skill Academy](https://www.skillacademy.com), [Built With Angga](https://www.builtwithangga.com), [Habis Kerja](https://www.habiskerja.com), [Kursus Digital](https://www.kursusdigital.id).
 
 Saat ini sedang menempuh pendidikan sarjana teknik informatika disalah satu perguruan tinggi swasta di kota bandung.
 
