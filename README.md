@@ -6,7 +6,7 @@ Saya seorang yang tertarik menyelesaikan suatu tantangan dengan bantuan teknolog
 
 Mengikuti beberapa kursus online untuk menunjang bidang keahlian seperti [Dicoding](https://www.dicoding.com), [Sanbercode](https://sanbercode.com), [Skill Academy](https://www.skillacademy.com), [Built With Angga](https://www.builtwithangga.com), [Habis Kerja](https://www.habiskerja.com), [Kursus Digital](https://www.kursusdigital.id).
 
-Saat ini sedang menempuh pendidikan sarjana teknik informatika disalah satu perguruan tinggi swasta di kota bandung.
+Merupakan lulusan sarjana teknik informatika disalah satu perguruan tinggi swasta di kota bandung.
 
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti [Linkedin](https://www.linkedin.com/in/m-ibad-guthwara-a888ab1b1/)ku ya.
 
