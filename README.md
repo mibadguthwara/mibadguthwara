@@ -4,7 +4,7 @@ Perkenalkan nama saya **M. Ibad Guthwara** biasa dipanggil **Ibad**.
 
 Saya seorang yang tertarik menyelesaikan suatu tantangan dengan bantuan teknologi diantaranya menggunakan teknologi aplikasi mobile.
 
-Mengikuti beberapa kursus online untuk menunjang bidang keahlian seperti [Dicoding](https://www.dicoding.com), [Sanbercode](https://sanbercode.com), [Skill Academy](https://www.skillacademy.com), [Built With Angga](https://www.builtwithangga.com),
+Mengikuti beberapa kursus online untuk menunjang bidang keahlian seperti [Dicoding](https://www.dicoding.com), [Jago Flutter](https:jagoflutter.com), [Sanbercode](https://sanbercode.com), [Skill Academy](https://www.skillacademy.com), [Built With Angga](https://www.builtwithangga.com),
 
 Merupakan lulusan sarjana teknik informatika disalah satu perguruan tinggi swasta di kota bandung.
 
